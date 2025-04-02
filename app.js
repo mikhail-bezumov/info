@@ -1,8 +1,5 @@
-//const firstName = 'Mikhail'
-//firstName = 'Ivan'
-//console.log('hello', firstName)
-let firstName = 'mikhail'
-firstName = 'Ivan'
-console.log('hello', firstName)
-git config --global user.name "Mikhail_Bezumov"
-git config --global user.email "mikhail.bezumov@gmail.com"
+const user = 'Mikhail';
+let age = 35;
+let city = 'Arkhangelsk';
+let hobby = 'Webflow, football';
+console.log('Меня зовут', user, 'мой возраст', age,'город проживания', city,'хобби', hobby)
